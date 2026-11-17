@@ -61,7 +61,7 @@ A full-stack pharmacy management application designed to manage medicines, inven
 **B.Tech – Information Technology**
 
 Adhiparasakthi College of Engineering
-Anna University          2022 - 2026
+,Anna University          2022 - 2026
 
 CGPA: 8.12
 
