@@ -71,7 +71,10 @@ CGPA: 8.12
 
 - Java Full Stack Development – QSpiders
 - Core Java Training – Internshala
-- AWS Cloud Fundamentals
+- Infosys Springboard – Spring 5 Basics with Spring Boot
+- Infosys Springboard – Spring Data JPA with Boot
+- Infosys Springboard – Spring REST
+- Cloud Fundamentals(AWS) - HTGE
 - Big Data Computing – NPTEL
 
 ---
