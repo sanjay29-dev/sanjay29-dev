@@ -73,7 +73,7 @@ I'm an Information Technology graduate focused on building scalable, reliable ba
 - **Spring Data JPA with Boot** – Infosys Springboard
 - **Spring REST** – Infosys Springboard
 - **Cloud Computing Internship** – HTGE Technologies
-- **Big Data Computing (Elite 82%)** – NPTEL / IIT Kanpur
+- **Big Data Computing** – NPTEL / IIT Kanpur
 
 ---
 
