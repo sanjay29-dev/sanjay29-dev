@@ -5,7 +5,7 @@
 I'm an Information Technology graduate focused on building scalable, reliable back-end systems and clean, responsive user interfaces. I specialize in Java enterprise back-end architecture with **Spring Boot 3**, **Spring Security (JWT)**, **Spring Data JPA/Hibernate**, and **MySQL**, paired with modular **React.js** frontends.
 
 - 💼 **Open to Work:** Java Full Stack Developer & Back-End Engineer roles
-- 🌐 **Portfolio:** [sanjay29-dev.github.io](https://github.com/sanjay29-dev/portfolio)
+- 🌐 **Portfolio:** [sanjay-portfolio-mu.vercel.app](https://sanjay-portfolio-mu.vercel.app)
 - 📍 **Location:** Chennai, Tamil Nadu, India
 - ✉️ **Email:** [wilsonsanjay29@gmail.com](mailto:wilsonsanjay29@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/sanjay-v-a47452374](https://www.linkedin.com/in/sanjay-v-a47452374)
@@ -51,8 +51,9 @@ I'm an Information Technology graduate focused on building scalable, reliable ba
 ### 3. [Personal Developer Portfolio](https://github.com/sanjay29-dev/portfolio)
 *An interactive "Engineer's Control Room" personal portfolio highlighting back-end engineering depth, full-stack case studies, and verified credentials.*
 
-- **Tech Stack:** React 18, Vite, Tailwind CSS, Framer Motion, HTML5 Canvas PDF reader, Formspree
-- **Features:** Interactive SVG skills ecosystem map, deep-dive project case study pages with architecture diagrams and API endpoint tables, in-modal toolbar-free certificate viewer, and live email inquiry integration.
+- **Live Site:** [sanjay-portfolio-mu.vercel.app](https://sanjay-portfolio-mu.vercel.app)
+- **Tech Stack:** React 18, Vite, Tailwind CSS, Framer Motion, PDF.js HTML5 Canvas reader, Formspree, Vercel
+- **Features:** Interactive SVG skills ecosystem map, deep-dive project case study pages with architecture diagrams and API endpoint tables, in-modal toolbar-free resume & certificate viewers, and live email inquiry integration.
 
 ---
 
